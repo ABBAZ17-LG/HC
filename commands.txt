@@ -1,2 +1,2 @@
 git remote add origin https://github.com/ABBAZ17-LG/HandCricket.git
-git push -u origin main
+git push -u origin head
